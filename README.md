@@ -1,10 +1,10 @@
 # Frontend UI
 
-Home page 
+Home page  
 ![Project Preview](images/home%20page.png)
 
-![Add  new contact ](images/my-image.png)
-
+![Add  new contact ](images/Add%20Contact.png)
+![Edit  contact ](images/updateContact.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 

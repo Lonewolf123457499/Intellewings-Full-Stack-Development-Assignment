@@ -13,8 +13,9 @@ This project is a React-based table component that supports all CRUD (Create, Re
 
 Home page  
 ![Project Preview](images/home%20page.png)
-
+Add New Contact
 ![Add  new contact ](images/Add%20Contact.png)
+Edit Contact
 ![Edit  contact ](images/updateContact.png)
 
  Install Dependencies for Both Backend and Frontend
@@ -22,12 +23,12 @@ Home page
 ###  Backend (Node.js)
 Navigate to the backend folder (e.g., server or backend directory) and install dependencies:
 cd backend
-npm install
+$ npm install
 
 ## Frontend (React)
 In a separate terminal window, navigate to the frontend folder (e.g., client or frontend directory) and install dependencies:
 cd ../frontend
-npm install
+$ npm install
 
 ## Running the Application
 1. Start the Backend Server
@@ -40,7 +41,7 @@ The backend will run on http://localhost:8080 (or the port specified in your con
 In the frontend directory, start the React development server.
 
 bash npm run dev
-The frontend will run on http://localhost:3000 by default.
+The frontend will run on http://localhost:5173 by default.
 
 Usage
 Add Items: Use the "Add" button to create a new entry in the table.
